@@ -15,7 +15,7 @@ Route::get('/contact', function () {
 
 ```html
 <inertia-link href="/contact">contact</inertia-link>
-```html
+```
 
 * `when I click contact route that time return an error`
 
